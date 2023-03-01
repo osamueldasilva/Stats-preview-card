@@ -1,0 +1,113 @@
+@media screen and (min-width: 800px) {
+
+.corpo {
+  font-family: 'Inter', sans-serif;
+  position: fixed;
+  height: 501px;
+  width: 531px;
+  background-color: #1B1938;
+  margin-left: 133px;
+  margin-bottom: 62px;
+  border-top-left-radius: 11px;
+  border-bottom-left-radius: 11px;
+}
+.imagem {
+  margin-left: 664px;
+  margin-right: 133px;
+  position: fixed;
+}
+}
+body {
+  background-color: #090B1A;
+  margin: 0 ;}
+
+.cabeçalho {
+  width: 100%;
+  height: 62px;
+}
+
+
+h1 {
+  color: #ffff;
+  margin-left: 64px;
+  margin-right: 118px;
+  margin-top: 62px;
+  height: 109px;
+  width: 349px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+strong {
+  color: #AA5CDB;
+}
+
+.text{
+  color:#C5C5CD;
+  margin-left: 64px;
+  margin-right: 118px;
+  margin-top: 33px;
+  height: 78px;
+  width: 349px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+/*--Primeira 0unidade--*/
+
+table {
+  color: #9B9BA6;
+  text-align: center;
+  margin-left: 64px;
+  margin-right: 155px;
+  margin-top:  101px;
+  margin-bottom: 64px;
+}
+
+.unidade_1 {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.unidade2 {
+  padding-left: 48px;
+}
+
+.unidade3 {
+  padding-left: 58px;
+}
+/*--SEGUNDA UNIDADE--*/
+
+.unidade_4 {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+.unidade6, .unidade7{
+  padding-left: 58px;
+  }
+
+  .imagem {
+    margin-left: 664px;
+    margin-right: 133px;
+    position: fixed;
+  }
+
+  img {
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+    height: 501px;
+    width: 531px;
+  }
+
+  .final {
+    
+    text-align: center;
+    margin-top: 665px;
+    color: #ffff;
+  }
+
+
